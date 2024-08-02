@@ -1,7 +1,7 @@
 --how to create a database
 create database SQL_Hospital
 go
-
+---Makinng new Changes
 --how to create table
 create table NURSE
 (EmployeeID int not null,
